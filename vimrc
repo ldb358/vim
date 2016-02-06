@@ -10,6 +10,7 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'tpope/vim-fugitive'
 " airline status bar
 Plugin 'bling/vim-airline'
+Plugin 'vim-airline/vim-airline-themes'
 "colot theme
 Plugin 'jpo/vim-railscasts-theme'
 "syntastic
