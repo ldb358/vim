@@ -21,6 +21,8 @@ Plugin 'vim-flake8'
 Plugin 'nathanaelkane/vim-indent-guides'
 "Nerdtree
 Plugin 'scrooloose/nerdtree'
+"Typescript vim
+Plugin 'leafgarland/typescript-vim'
 call vundle#end() " required
 filetype plugin indent on " required
 
